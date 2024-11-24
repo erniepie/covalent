@@ -2,6 +2,6 @@ covalent
 matplotlib==3.5.1
 numpy==1.24.2
 pennylane-sf==0.20.1
-scikit-learn==1.0.2
-torch==2.0.0
+scikit-learn==1.5.0
+torch==2.2.0
 torchvision==0.15.1
