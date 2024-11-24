@@ -5,5 +5,5 @@ covalent-gcpbatch-plugin==0.9.0
 datasets==2.14.0
 pandas
 plotly
-torch==2.0.1
+torch==2.2.0
 torchvision==0.15.2
